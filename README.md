@@ -24,8 +24,9 @@
 | Innovathon | University of Jammu | 🥇 Winner |
 | HWUP | Chandigarh University | 🥈 Runner-Up |
 | GIH 2.0 | GCET | 🥈 Runner-Up |
+| Hack With Arya | Arya College of Engineering | 🥉 2nd Runner-Up |
 | MIET E-Expo 2024 | MIET | 🥉 2nd Runner-Up |
-| MIH 2.0 | IIMT | 🥉 2nd Runner-Up |
+| MIH 2.0 | IIMT College of Engineering| 🥉 2nd Runner-Up |
 # 🚀 ~/projects --featured
 
 ## 🛡️ Suraksha – Women's Safety Device
