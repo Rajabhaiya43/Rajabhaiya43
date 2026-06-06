@@ -25,6 +25,62 @@
 <img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,git,github,vscode&theme=dark" />
 </p>
 
+# 🏆 ./display-achievements --trophies
+# 🏆 Achievement Timeline
+
+| Competition | Organization | Achievement |
+|------------|-------------|-------------|
+| MIET E-Expo 2025 | MIET | 🥇 Winner |
+| HackSprint | Axis College of Engineering | 🥇 Winner |
+| Innovathon | University of Jammu | 🥇 Winner |
+| HWUP | Chandigarh University | 🥈 Runner-Up |
+| GIH 2.0 | GCET | 🥈 Runner-Up |
+| MIET E-Expo 2024 | MIET | 🥉 2nd Runner-Up |
+| MIH 2.0 | IIMT | 🥉 2nd Runner-Up |
+# 🚀 ~/projects --featured
+# 🚀 FEATURED PROJECTS
+
+## 🛡️ Suraksha – Women's Safety Device
+
+📍 IoT • Map API • Geo-Fencing • Web Dashboard
+
+- Instant SOS alert system using hardware trigger
+- Real-time GPS location tracking
+- Geo-fencing based safety monitoring
+- Fastest rescue route & nearby police station detection
+
+---
+
+## ♻️ Smart Bin – Smart Waste Management System
+
+📍 IoT • Python • GIS • Image Processing
+
+- Real-time waste bin monitoring using sensors
+- Optimized waste collection routes
+- Reduced operational cost and emissions
+- Smart city focused sanitation solution
+
+---
+
+## 🌱 Smart Irrigation System
+
+📍 IoT • Python • OpenCV • Sensors
+
+- Automated soil and environmental monitoring
+- Smart irrigation decision system
+- Precision agriculture solution
+- Water usage optimization
+
+---
+
+## 🤖 SU-Rover – Autonomous Robot
+
+📍 IoT • Python • Sensors
+
+- Obstacle detection using ultrasonic sensors
+- Autonomous navigation and collision avoidance
+- Robotics and automation focused project
+- Real-time sensor-based decision making
 # ⚡ ABOUT ME
 
 🔹 **B.Tech AI & Data Science | 3rd Year**
