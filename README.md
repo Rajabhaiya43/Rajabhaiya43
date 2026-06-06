@@ -2,30 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=1300&height=100&lines=Heloo+,+This+is+Shivam+Upadhayay;%F0%9F%8F%86+8x+National+Level+Hackathon+Winner;%F0%9F%8E%93+AI+%26+Data+Science+Student;%F0%9F%93%8A+Aspiring+Data+Analyst+%26+Data+Scientist" />
 </p>
 
-## 💻 Tech Stack
+## ⚡ Tech Arsenal
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,firebase,gcp,opencv&theme=dark&perline=4" />
 </p>
-⚡ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-00C853?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-4285F4?style=flat-square&logo=googleanalytics&logoColor=white"/>
 </p>
 
-# 🏆 ./display-achievements --trophies
+# 🏆 **./display-achievements --trophies**
 
 | Competition | Organization | Achievement |
 |------------|-------------|-------------|
