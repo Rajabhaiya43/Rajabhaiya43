@@ -10,40 +10,51 @@
 🔥 Contribution Streak
 ![](https://streak-stats.demolab.com?user=Rajabhaiya43&theme=tokyonight&hide_border=true)
 
-💻 Tech Stack
+## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-🚀 About Me
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-🎓 B.Tech AI & Data Science (3rd Year)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-🏆 7x National Level Hackathon Winner
+</p>
+⚡ Tech Arsenal
 
-📊 Learning Data Analytics & Data Science
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy,git,github,vscode&theme=dark" />
+</p>
 
-🤖 Interested in AI, ML and Real-World Problem Solving
+# ⚡ ABOUT ME
 
-🇮🇳 India
-🌟 Featured Projects
+🔹 **B.Tech AI & Data Science | 3rd Year**
 
-🔹 Smart Waste Detection System
+🔹 **🏆 8x National Hackathon Winner**
 
-🔹 Women Safety Monitoring System
+🔹 **📊 Aspiring Data Analyst & Data Scientist**
 
-🔹 Portfolio Website
+🔹 **🤖 IoT • Leadership • Data Analytics • Problem Solving**
 
-🔹 Customer Churn Prediction (Coming Soon)
+🔹 **🇮🇳 Greater Noida, India**
 
-🔹 IPL Data Analysis (Coming Soon)
+---
 
+# 🚀 FEATURED PROJECTS
 
+⚡ **Smart Waste Detection System**
+
+⚡ **Surakhsa-Women Safety Monitoring System**
+
+⚡ **PB-Home Plastic Eating Bacteria Cultivator**
+
+⚡ **Customer Churn Prediction** *(Coming Soon)*
+
+⚡ **IPL Data Analysis Dashboard** *(Coming Soon)*
