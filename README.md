@@ -26,7 +26,6 @@
 </p>
 
 # 🏆 ./display-achievements --trophies
-# 🏆 Achievement Timeline
 
 | Competition | Organization | Achievement |
 |------------|-------------|-------------|
@@ -38,7 +37,6 @@
 | MIET E-Expo 2024 | MIET | 🥉 2nd Runner-Up |
 | MIH 2.0 | IIMT | 🥉 2nd Runner-Up |
 # 🚀 ~/projects --featured
-# 🚀 FEATURED PROJECTS
 
 ## 🛡️ Suraksha – Women's Safety Device
 
